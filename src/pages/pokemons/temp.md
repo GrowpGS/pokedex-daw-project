@@ -1,1 +1,0 @@
-Pasta para colocar o html de cada pokemon
